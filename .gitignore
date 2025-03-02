@@ -1,0 +1,35 @@
+# Ignore build and compilation artifacts
+/build/
+/CMakeCache.txt
+/CMakeFiles/
+/Makefile
+/*.cmake
+/*.o
+/*.obj
+/*.so
+/*.dll
+/*.dylib
+/*.exe
+/*.out
+/*.a
+/*.lib
+
+# Ignore generated logs and debug files
+*.log
+*.swp
+*.swo
+*.bak
+*.tmp
+*.dSYM/
+
+# Ignore VSCode settings (optional)
+.vscode/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+
+# Ignore Git-related metadata (if you’re using Git submodules)
+.gitmodules

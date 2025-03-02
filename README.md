@@ -22,7 +22,7 @@ A hardware-level keylogger for Raspberry Pi 5 that captures keystrokes directly 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/pi5-keylogger.git
+   git clone https://github.com/dmitriymu/pi5-keylogger.git
    cd pi5-keylogger
    ```
 2. Compile the program:
